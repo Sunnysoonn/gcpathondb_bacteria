@@ -1,0 +1,1023 @@
+nohup: ignoring input
+>>> Pipeline Started. Reading taxid_counts.txt...
+>>> [Skip] TaxID 40214 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 43767 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 1719 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 35703 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 60552 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 1305 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 40216 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 40215 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 67824 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 28449 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 150055 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 106648 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 253 is found in finished_list.txt. Skipping.
+>>> [Skip] TaxID 238 is found in finished_list.txt. Skipping.
+----------------------------------------------------------------
+>>> [Start/Resume] TaxID: 68892 | WorkDir: temp_scratch/temp_run_68892
+    [Step 1] Downloading (Dehydrated Mode)...
+        [Strategy] Count = 0. Mode: REFSEQ (Fallback).
+New version of client (18.14.0) available at https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/LATEST/linux-amd64/datasets.
+Collecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [------------------------------------------------]   0% 0/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    847B 7.07MB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    1.96kB 23kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    32.8kB 102kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    32.8kB 102kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    32.8kB 102kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    36.9kB 103kB/s
+[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    46.7kB done
+Validating package files [========>---------------------------------------]  20% 1/5
+[1A[2K[1A[2K[1A[2KCollecting 84 genome records [================================================] 100% 84/84
+Downloading: temp_scratch/temp_run_68892/data.zip    46.7kB valid data package
+Validating package files [================================================] 100% 5/5
+        [Action] Unzipping metadata...
+        [Action] Rehydrating (Fetching actual sequences)...
+    Downloaded: 84 files.
+    [Step 2] De-hosting (Parallel)...
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 30 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 53 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 29 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 46 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 56 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 139 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 99 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 71 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 23 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 185 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 19 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 1 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 17 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 58 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 53 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 58 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 52 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 27 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 86 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 35 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 31 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 16 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 19 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 34 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 25 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 63 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 41 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 28 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 52 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 48 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 53 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 56 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 18 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 50 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 68 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 24 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 32 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 48 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 16 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 53 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 30 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 57 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 69 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 63 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 72 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 68 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 30 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 19 reads
+    [Step 3] Trinity QC (CheckM2 + GTDB + GUNC)...
+        Running CheckM2...
+        Running GTDB-Tk...
+        Running GUNC...
+        Filtering Genomes (External Python Script)...
+Total Input: 84, Passed Trinity QC: 81
+    81 genomes passed Trinity QC.
+    [Step 3.5] Stratifying species (Smart Biological Grouping)...
+    [Step 4] Processing: Unclassified (Count: 81)
+[Input] Loading Pangenome Matrix: temp_scratch/temp_run_68892/analysis_Unclassified/panaroo/gene_presence_absence.csv
+[Algorithm] Calculating Mash distances for 81 genomes...
+[Algorithm] Clustering lineages with ANI > 99.0% (Dist < 0.010)...
+
+[Selection] Found 55 Clusters (Lineages). Starting Greedy Selection...
+
+>>> Processing Cluster 0 (Size: 2 strains)
+  -> Target Pool: 12 dispensable genes.
+    + Selected GCF_047464335.1_ASM4746433v1_genomic (+7). Cov: 58.3%
+    + Selected GCF_047460055.1_ASM4746005v1_genomic (+5). Cov: 100.0%
+    [Result] Cluster 0 selected 2 representatives.
+
+>>> Processing Cluster 1 (Size: 2 strains)
+  -> Target Pool: 8 dispensable genes.
+    + Selected GCF_047463095.1_ASM4746309v1_genomic (+6). Cov: 75.0%
+    + Selected GCF_047463295.1_ASM4746329v1_genomic (+2). Cov: 100.0%
+    [Result] Cluster 1 selected 2 representatives.
+
+>>> Processing Cluster 2 (Size: 2 strains)
+  -> Target Pool: 83 dispensable genes.
+    + Selected GCF_047463735.1_ASM4746373v1_genomic (+61). Cov: 73.5%
+    + Selected GCF_047467875.1_ASM4746787v1_genomic (+22). Cov: 100.0%
+    [Result] Cluster 2 selected 2 representatives.
+
+>>> Processing Cluster 3 (Size: 4 strains)
+  -> Target Pool: 83 dispensable genes.
+    + Selected GCF_900459415.1_45473_C02_genomic (+65). Cov: 78.3%
+    + Selected GCF_000187465.1_ASM18746v1_genomic (+15). Cov: 96.4%
+    [Result] Cluster 3 selected 2 representatives.
+
+>>> Processing Cluster 4 (Size: 7 strains)
+  -> Target Pool: 35 dispensable genes.
+    + Selected GCF_047465145.1_ASM4746514v1_genomic (+35). Cov: 100.0%
+    [Result] Cluster 4 selected 1 representatives.
+
+>>> Processing Cluster 5 (Size: 5 strains)
+  -> Target Pool: 8 dispensable genes.
+    + Selected GCF_047464195.1_ASM4746419v1_genomic (+6). Cov: 75.0%
+    + Selected GCF_047464255.1_ASM4746425v1_genomic (+2). Cov: 100.0%
+    [Result] Cluster 5 selected 2 representatives.
+
+>>> Processing Cluster 6 (Size: 2 strains)
+  -> Target Pool: 17 dispensable genes.
+    + Selected GCF_047464715.1_ASM4746471v1_genomic (+17). Cov: 100.0%
+    [Result] Cluster 6 selected 1 representatives.
+
+>>> Processing Cluster 7 (Size: 2 strains)
+  -> Target Pool: 2 dispensable genes.
+    + Selected GCF_047460105.1_ASM4746010v1_genomic (+1). Cov: 50.0%
+    + Selected GCF_047460405.1_ASM4746040v1_genomic (+1). Cov: 100.0%
+    [Result] Cluster 7 selected 2 representatives.
+
+>>> Processing Cluster 8 (Size: 2 strains)
+  -> Target Pool: 34 dispensable genes.
+    + Selected GCF_047464995.1_ASM4746499v1_genomic (+19). Cov: 55.9%
+    + Selected GCF_047464915.1_ASM4746491v1_genomic (+15). Cov: 100.0%
+    [Result] Cluster 8 selected 2 representatives.
+
+>>> Processing Cluster 9 (Size: 1 strains)
+    [Result] Cluster 9 selected 1 representatives.
+
+>>> Processing Cluster 10 (Size: 2 strains)
+  -> Target Pool: 3 dispensable genes.
+    + Selected GCF_047464475.1_ASM4746447v1_genomic (+2). Cov: 66.7%
+    + Selected GCF_047464455.1_ASM4746445v1_genomic (+1). Cov: 100.0%
+    [Result] Cluster 10 selected 2 representatives.
+
+>>> Processing Cluster 11 (Size: 2 strains)
+  -> Target Pool: 6 dispensable genes.
+    + Selected GCF_047465525.1_ASM4746552v1_genomic (+3). Cov: 50.0%
+    + Selected GCF_047465305.1_ASM4746530v1_genomic (+3). Cov: 100.0%
+    [Result] Cluster 11 selected 2 representatives.
+
+>>> Processing Cluster 12 (Size: 2 strains)
+    [Result] Cluster 12 selected 1 representatives.
+
+>>> Processing Cluster 13 (Size: 2 strains)
+  -> Target Pool: 2 dispensable genes.
+    + Selected GCF_019929665.1_ASM1992966v1_genomic (+1). Cov: 50.0%
+    + Selected GCF_019929625.1_ASM1992962v1_genomic (+1). Cov: 100.0%
+    [Result] Cluster 13 selected 2 representatives.
+
+>>> Processing Cluster 14 (Size: 1 strains)
+    [Result] Cluster 14 selected 1 representatives.
+
+>>> Processing Cluster 15 (Size: 1 strains)
+    [Result] Cluster 15 selected 1 representatives.
+
+>>> Processing Cluster 16 (Size: 1 strains)
+    [Result] Cluster 16 selected 1 representatives.
+
+>>> Processing Cluster 17 (Size: 1 strains)
+    [Result] Cluster 17 selected 1 representatives.
+
+>>> Processing Cluster 18 (Size: 1 strains)
+    [Result] Cluster 18 selected 1 representatives.
+
+>>> Processing Cluster 19 (Size: 1 strains)
+    [Result] Cluster 19 selected 1 representatives.
+
+>>> Processing Cluster 20 (Size: 1 strains)
+    [Result] Cluster 20 selected 1 representatives.
+
+>>> Processing Cluster 21 (Size: 1 strains)
+    [Result] Cluster 21 selected 1 representatives.
+
+>>> Processing Cluster 22 (Size: 1 strains)
+    [Result] Cluster 22 selected 1 representatives.
+
+>>> Processing Cluster 23 (Size: 2 strains)
+  -> Target Pool: 2 dispensable genes.
+    + Selected GCF_047464725.1_ASM4746472v1_genomic (+1). Cov: 50.0%
+    + Selected GCF_047464775.1_ASM4746477v1_genomic (+1). Cov: 100.0%
+    [Result] Cluster 23 selected 2 representatives.
+
+>>> Processing Cluster 24 (Size: 3 strains)
+    [Result] Cluster 24 selected 1 representatives.
+
+>>> Processing Cluster 25 (Size: 1 strains)
+    [Result] Cluster 25 selected 1 representatives.
+
+>>> Processing Cluster 26 (Size: 1 strains)
+    [Result] Cluster 26 selected 1 representatives.
+
+>>> Processing Cluster 27 (Size: 1 strains)
+    [Result] Cluster 27 selected 1 representatives.
+
+>>> Processing Cluster 28 (Size: 1 strains)
+    [Result] Cluster 28 selected 1 representatives.
+
+>>> Processing Cluster 29 (Size: 1 strains)
+    [Result] Cluster 29 selected 1 representatives.
+
+>>> Processing Cluster 30 (Size: 1 strains)
+    [Result] Cluster 30 selected 1 representatives.
+
+>>> Processing Cluster 31 (Size: 1 strains)
+    [Result] Cluster 31 selected 1 representatives.
+
+>>> Processing Cluster 32 (Size: 1 strains)
+    [Result] Cluster 32 selected 1 representatives.
+
+>>> Processing Cluster 33 (Size: 1 strains)
+    [Result] Cluster 33 selected 1 representatives.
+
+>>> Processing Cluster 34 (Size: 1 strains)
+    [Result] Cluster 34 selected 1 representatives.
+
+>>> Processing Cluster 35 (Size: 1 strains)
+    [Result] Cluster 35 selected 1 representatives.
+
+>>> Processing Cluster 36 (Size: 1 strains)
+    [Result] Cluster 36 selected 1 representatives.
+
+>>> Processing Cluster 37 (Size: 1 strains)
+    [Result] Cluster 37 selected 1 representatives.
+
+>>> Processing Cluster 38 (Size: 1 strains)
+    [Result] Cluster 38 selected 1 representatives.
+
+>>> Processing Cluster 39 (Size: 1 strains)
+    [Result] Cluster 39 selected 1 representatives.
+
+>>> Processing Cluster 40 (Size: 1 strains)
+    [Result] Cluster 40 selected 1 representatives.
+
+>>> Processing Cluster 41 (Size: 1 strains)
+    [Result] Cluster 41 selected 1 representatives.
+
+>>> Processing Cluster 42 (Size: 1 strains)
+    [Result] Cluster 42 selected 1 representatives.
+
+>>> Processing Cluster 43 (Size: 1 strains)
+    [Result] Cluster 43 selected 1 representatives.
+
+>>> Processing Cluster 44 (Size: 1 strains)
+    [Result] Cluster 44 selected 1 representatives.
+
+>>> Processing Cluster 45 (Size: 1 strains)
+    [Result] Cluster 45 selected 1 representatives.
+
+>>> Processing Cluster 46 (Size: 1 strains)
+    [Result] Cluster 46 selected 1 representatives.
+
+>>> Processing Cluster 47 (Size: 1 strains)
+    [Result] Cluster 47 selected 1 representatives.
+
+>>> Processing Cluster 48 (Size: 1 strains)
+    [Result] Cluster 48 selected 1 representatives.
+
+>>> Processing Cluster 49 (Size: 1 strains)
+    [Result] Cluster 49 selected 1 representatives.
+
+>>> Processing Cluster 50 (Size: 1 strains)
+    [Result] Cluster 50 selected 1 representatives.
+
+>>> Processing Cluster 51 (Size: 1 strains)
+    [Result] Cluster 51 selected 1 representatives.
+
+>>> Processing Cluster 52 (Size: 1 strains)
+    [Result] Cluster 52 selected 1 representatives.
+
+>>> Processing Cluster 53 (Size: 1 strains)
+    [Result] Cluster 53 selected 1 representatives.
+
+>>> Processing Cluster 54 (Size: 1 strains)
+    [Result] Cluster 54 selected 1 representatives.
+
+[Output] Copying 66 selected genomes to temp_scratch/temp_run_68892/analysis_Unclassified/final_selection...
+Done.
+  [Step 6] Smart Cleaning...
+  [Info] Cleaned junk files and old runs.
+>>> [Skip] TaxID 126385 is found in finished_list.txt. Skipping.
+----------------------------------------------------------------
+>>> [Start/Resume] TaxID: 29363 | WorkDir: temp_scratch/temp_run_29363
+    [Step 1] Downloading (Dehydrated Mode)...
+        [Strategy] Count = 0. Mode: REFSEQ (Fallback).
+New version of client (18.14.0) available at https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/LATEST/linux-amd64/datasets.
+Collecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [------------------------------------------------]   0% 0/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    941B 6.42MB/s
+[1A[2K[1A[2KCollecting 66 genome records [================================================] 100% 66/66
+Downloading: temp_scratch/temp_run_29363/data.zip    41kB valid data package
+Validating package files [================================================] 100% 5/5
+        [Action] Unzipping metadata...
+        [Action] Rehydrating (Fetching actual sequences)...
+    Downloaded: 66 files.
+    [Step 2] De-hosting (Parallel)...
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 580 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 25 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 91 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 30 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 41 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 77 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 57 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 31 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 33 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 24 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 56 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 69 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 84 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 43 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 68 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 70 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 89 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 137 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 46 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 55 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 65 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 64 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 416 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 36 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 63 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 45 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 70 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 40 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 45 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 55 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 80 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 75 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 63 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 39 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 68 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 78 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 71 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 222 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 68 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 31 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 223 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 132 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 45 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 98 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 157 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 330 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 105 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 37 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 404 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 66 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 98 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 124 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 27 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 17 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 51 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 56 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 63 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 16 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 84 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 40 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 29 reads
+[33m[WARN][0m you may switch on flag -g/--remove-gaps to remove spaces
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 20 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 90 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 41 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 49 reads
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 29 reads
+    [Step 3] Trinity QC (CheckM2 + GTDB + GUNC)...
+        Running CheckM2...
+        Running GTDB-Tk...
+        Running GUNC...
+        Filtering Genomes (External Python Script)...
+Total Input: 66, Passed Trinity QC: 65
+    65 genomes passed Trinity QC.
+    [Step 3.5] Stratifying species (Smart Biological Grouping)...
+    [Step 4] Processing: Unclassified (Count: 65)
